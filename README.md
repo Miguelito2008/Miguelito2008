@@ -1,7 +1,12 @@
-## Hi there 👋
+## Bem vindo ao meu perfil 
+
+Meu nome é "Miguel Moreira"
+
+* Sou um aluno da Escola Estadual Professor João Jorge Marmorato.
+* 
 
 <!--
-**Miguelito2008/Miguelito2008** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**Miguelito2008/Miguelito2008** is a  _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
 
